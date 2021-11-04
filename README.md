@@ -3,7 +3,7 @@
 <param ve-config 
        title="Beasts of Burden and All-Consuming Machines"
        author="Nicky Agate"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://commons.wikimedia.org/wiki/File:Raffa%C3%ABlli_-_The_Beaver,_1993.12.jpg" 
+       banner="https://commons.wikimedia.org/wiki/File:Raffa%C3%ABlli_-_The_Beaver,_1993.12.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
